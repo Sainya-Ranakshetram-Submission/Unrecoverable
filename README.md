@@ -17,3 +17,6 @@ In order to run this file we need to have `python3.8` then in console type the f
 python main.py
 ```
 
+## Youtube Video Explaining all
+
+[![Unrecoverable Challenge | Submission](http://img.youtube.com/vi/IOj55-N_Qc4/0.jpg)](http://www.youtube.com/watch?v=IOj55-N_Qc4 "Unrecoverable Challenge | Submission")
