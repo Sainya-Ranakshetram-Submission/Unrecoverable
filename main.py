@@ -28,6 +28,6 @@ if __name__ == '__main__':
     path = input('Enter the file path to be deleted: ')
     if os.path.isfile(path.strip(' ').strip('\n')):
         secure_delete(path)
-        print('Deleted', path)
+        print('Securely Deleted:', path)
     else:
         print('The given file does not exists in the system')
