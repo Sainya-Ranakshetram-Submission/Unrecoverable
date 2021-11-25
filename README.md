@@ -9,7 +9,7 @@ In windows whenever a file deleted from teh recycle bin, it remove its log entry
 So for the system using windows as their OS we need to use the [Gutmann Method](https://en.wikipedia.org/wiki/Gutmann_method) in order to delete a file securely. 
 Thus using the [Gutmann Method](https://en.wikipedia.org/wiki/Gutmann_method) we get the data that should be overwritten into the file, before deleting it.
 
-Then in teh internet I found a superb [Stackoverflow answer](https://stackoverflow.com/questions/17455300/python-securely-remove-file), I ucopied that then did some type hinting then modified a bit for this problem statement.
+Then in the internet I found a superb [Stackoverflow answer](https://stackoverflow.com/questions/17455300/python-securely-remove-file), I copied that then did some type hinting then modified a bit for this problem statement.
 
 My solution is in [main.py](https://github.com/Sainya-Ranakshetram-Submission/Unrecoverable/blob/master/main.py) file.
 In order to run this file we need to have `python3.8` then in console type the following command
